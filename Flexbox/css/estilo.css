@@ -1,0 +1,11 @@
+.img{
+    width: 100%;
+}
+
+.box{
+    margin: 5px;
+    padding: 15px;
+    background-color: #f5aec7;
+    border-radius: 10px;
+    text-align: justify;
+}
